@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Asher Leffler.<br>👀 I’m interested in front-end development and how to create what shows up on screen<br>🌱 I’m currently learning how to use coding in real world scenarios<br>💞️ I’m looking to collaborate on projects that can give me experience in front-end development<br>📫 Reach me via my email at: leffler.asher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm 15 years old and I am building a career in software development
+👋 Hey, I’m Asher Leffler.<br>👀 I’m interested in front-end development and how to create what shows up on screen<br>🌱 I’m currently learning how to use coding in real-world scenarios<br>💞️ I’m looking to collaborate on projects that can give me experience in front-end development<br>📫 Reach me via my email at: leffler.asher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm 15 years old and I am building a career in software development
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&layout=compact&langs_count=10&hide=html,css&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&layout=compact&langs_count=10&hide=html,css&theme=radical&no-frame=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
