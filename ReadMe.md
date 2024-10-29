@@ -10,12 +10,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&layout=compact&langs_count=10&hide=html,css&theme=radical&no-frame=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsherLeffler&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsherLeffler&theme=radical&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AsherLeffler&theme=radical&no-frame=true&no-bg=false&margin-w=4)
