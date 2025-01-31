@@ -10,7 +10,7 @@
 
 ![React](https://img.shields.io/badge/"react"-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/"vite"-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/"node.js"-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![npm](https://img.shields.io/badge/"npm"-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
-![Java](https://img.shields.io/badge/"java"-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/"gradle"-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/"apache_tomcat"-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
+![Java](https://img.shields.io/badge/"java"-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/"spring"-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/"gradle"-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/"apache_tomcat"-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
 
 ![Microsoft SQL Server](https://img.shields.io/badge/"Microsoft_SQL_Server"-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/"mysql"-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
