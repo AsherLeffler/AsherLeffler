@@ -12,7 +12,7 @@
 
 ![Java](https://img.shields.io/badge/"java"-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/"spring"-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/"gradle"-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/"apache_tomcat"-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
 
-![Microsoft SQL Server](https://img.shields.io/badge/"Microsoft_SQL_Server"-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/"mysql"-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/"mysql"-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ![Git](https://img.shields.io/badge/"git"-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/"github"-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/"eslint"-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)  
 
