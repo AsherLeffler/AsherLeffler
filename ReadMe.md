@@ -18,9 +18,6 @@
 
 ![Figma](https://img.shields.io/badge/"figma"-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/"vercel"-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/"AWS"-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-# Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherLeffler&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsherLeffler&theme=radical&hide_border=true)<br/>
