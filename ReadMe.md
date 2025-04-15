@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Asher Leffler.<br>👀 I’m interested in front-end development and how to create what shows up on screen<br>🌱 I’m currently learning how to use coding in real-world scenarios<br>💞️ I’m looking to build projects that can give me experience in front-end development<br>📫 Reach me via my email at: leffler.asher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm 15 years old and I am building a career in software development
+👋 Hey, I’m Asher Leffler.<br>👀 I’m interested in front-end development and how to create what shows up on screen<br>🌱 I’m currently learning how to use coding in real-world scenarios<br>💞️ I’m looking to build projects that can give me experience in front-end development<br>📫 Reach me via my email at: leffler.asher@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I'm 16 years old and I am building a career in software development
 
 
 ## 🌐 Socials:
