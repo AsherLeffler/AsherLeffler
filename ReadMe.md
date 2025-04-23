@@ -47,14 +47,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AsherLeffler&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AsherLeffler&theme=maroongold&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsherLeffler&theme=maroongold&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AsherLeffler&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AsherLeffler&theme=maroongold&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AsherLeffler&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AsherLeffler&limit=5&theme=maroongold&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AsherLeffler&icon=0&color=0)](https://visitcount.itsvg.in)
